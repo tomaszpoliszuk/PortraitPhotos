@@ -22,8 +22,11 @@
 - Lighting effects intensity control (iOS 13+ only) - turn it on using button in top left corner
 
 **Camera app Screenshots:**
+
 ![Camera Lighting Effects](screenshots/camera_lighting_effects.png)
 ![Camera Lighting Effects Intensity](screenshots/camera_lighting_effects_intensity.png)
+
 **Photos app Screenshots:**
+
 ![Photos Lighting Effects](screenshots/photos_lighting_effects.png)
 ![Photos Lighting Effects Intensity](screenshots/photos_lighting_effects_intensity.png)
