@@ -1,7 +1,7 @@
 Package: com.tomaszpoliszuk.portraitphotos
-Depends: firmware (>= 12.4), mobilesubstrate, gsc.rear-facing-telephoto-camera-capability
+Depends: firmware (>= 12.4), mobilesubstrate, gsc.rear-facing-telephoto-camera-capability | cy+model.iphone (= 11.8)
 Name: Portrait Photos
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Description: Enable all Portrait Lighting effects in Camera app and Photos app (while editing Portrait photos).
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=portraitphotosDp
@@ -11,4 +11,4 @@ Author: Tomasz Poliszuk
 Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Tweaks
 dev: tomaszpoliszuk
-Tag: purpose::extension, compatible::ios13
+Tag: purpose::extension
